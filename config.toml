@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -13,7 +13,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Xoomworks Technology"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Hackathon 2020"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
