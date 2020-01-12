@@ -14,7 +14,7 @@ git submodule update --recursive
 
 All the pages and posts are in the `content` folder.
 
-Make your changed and previw them by running:
+Make your changed and preview them by running:
 
 ```sh
 hugo server
