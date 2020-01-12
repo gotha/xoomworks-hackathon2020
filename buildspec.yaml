@@ -15,7 +15,7 @@ phases:
     commands:
       - echo Build started on `date`
       - git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
-      - echo BASE_URL:$BASE_URL
+      - "echo BASE_URL:$BASE_URL"
       - /opt/hugo --baseURL $BASE_URL
   post_build:
     commands:
