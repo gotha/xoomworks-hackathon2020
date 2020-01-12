@@ -3,7 +3,7 @@ title = "Sync my calendar"
 tags = ["project"]
 +++
 
-While working on several projects is not uncommon to have companies using different e-mail/callendar providers and we all know how painfull that is. 
+While working on several projects is not uncommon to have companies using different e-mail/calendar providers and we all know how painful that is. 
 
 Nobody knows if you are really busy in a meeting or you are just slacking, making scheduling events really hard.
 

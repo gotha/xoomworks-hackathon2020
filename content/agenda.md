@@ -9,4 +9,4 @@ title = "Agenda"
 - 12:30 - Lets grab something to eat
 - 16:00 - Time to start thinking about your presentation
 - 17:00 - Presentations
-- 18:00 - Anouncing winner/s
+- 18:00 - Announcing winner/s

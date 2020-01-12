@@ -9,8 +9,8 @@ If you want to participate first you need to fill your name in [the sheet](https
 
 Write down what you are good at and how you would like to contribute.
 
-Propose to start a team around an idea that you have or join already established team. Please contact the team lead to make sure there are seats avaiable.
+Propose to start a team around an idea that you have or join already established team. Please contact the team lead to make sure there are seats available.
 
 ### Promote
-Put a description of your idea in [this repo](https://github.com/gotha/xoomworks-hackathon2020) and submit a PR, then spread the word.
+Put a description of your idea in [this repository](https://github.com/gotha/xoomworks-hackathon2020) and submit a PR, then spread the word.
 
