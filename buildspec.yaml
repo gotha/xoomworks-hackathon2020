@@ -1,0 +1,23 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      golang: 1.13
+  pre_build:
+    commands:
+      - echo "Installing dependencies"
+      - yum -y install wget tar gzip git
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.62.2/hugo_0.62.2_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
+      - tar -xzf /tmp/hugo.tar.gz -C /opt
+      - chmod +x /opt/hugo
+  build:
+    commands:
+      - echo Build started on `date`
+      - git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
+      - echo BASE_URL:$BASE_URL
+      - /opt/hugo --baseURL $BASE_URL
+  post_build:
+    commands:
+      - echo "Post build"
+      - aws s3 cp --recursive public/ s3://hackathon2020-website
