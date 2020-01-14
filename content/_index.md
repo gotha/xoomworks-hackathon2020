@@ -6,18 +6,18 @@ title = "Hackathon 2020"
 
 ## When & Where
 
-To celebrate our 5 years of Xoomworks in Bulgaria we would like to invite all employees to participate in a Hackathon on 24th Jan 2020 in our office - Vasil Levski 15-17 blvd, Sofia.
+To celebrate our 5 years of Xoomworks in Bulgaria we would like to invite all employees to participate in a Hackathon on 24th Jan 2020 in our office - floor 5, 15-17 Vasil Levski blvd, Sofia.
 
-The event shall start formally at 9:00 AM.  Feel free come in at whatever time you feel it’s reasonable and allowing you to achieve as much as possible to show best your efforts.
+The event shall start formally at 9:00 AM.  Feel free to come in at whatever time you feel it’s reasonable and allowing you to show best your efforts.
 
-There will be banitza for the early birds in the morning and pizzas for lunch!
+There will be banitzas for the early birds in the morning and pizzas for lunch!
 
 ## Change the world 
 
 The motto of the Hackathon is “Change the world!".
 We know this is ambitious task, but we believe everyone of us can contribute to the betterment of our surroundings.
 
-No matter what you choose - a project that changes your day-to-day work, something that improves the product of your client, or an app that influences elections, we will be happy to take a look.
+Whatever you choose - a project that changes your day-to-day work, something that improves the product of your client, or an app that influences elections, we will be happy to take a look.
 
 ## Project ideas
 
@@ -27,7 +27,7 @@ So far you have listed the following ideas for projects :
 * Save the children
 * Sync my calendar
 
-Everyone feel free to add more ideas to this list or join an existing team!
+Everyone feel free to add more ideas to this list or join an existing team. Check out the Projects below!
 
 ## What’s in it for me
 
