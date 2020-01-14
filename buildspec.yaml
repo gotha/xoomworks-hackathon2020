@@ -20,4 +20,5 @@ phases:
   post_build:
     commands:
       - echo "Post build"
-      - aws s3 cp --recursive public/ s3://hackathon2020-website
+      - aws s3 rm --recursive s3://$S3_BUCKET_NAME/*
+      - aws s3 cp --recursive public/ s3://$S3_BUCKET_NAME
