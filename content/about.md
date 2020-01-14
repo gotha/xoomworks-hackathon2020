@@ -8,6 +8,6 @@ Hackatons are intended to bring out your creative side by removing all constrain
 
 We want to create an event where everyone can show us a glimpse of their vision of a better world. Event if it is not completely finished, it is the intention that counts.
 
-If you prove to have the best idea there will be a chance to mature it and develop it into a real product that will positively affect other people's lives.
+Prove that your idea is the best and you'll the chance to hatch and develop it into a real product that will positively affect other people's lives.
 
 Think outside the box (or inside, idk, I am not your mom).
