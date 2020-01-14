@@ -10,7 +10,7 @@ title = "Rules"
 
 1. Teams
 
-	Team size should be between 1 and 5 members. We have a strict policy agains teams without members. 
+	Team size should be between 1 and 5 members. We have a strict policy against teams without members. 
 	You can participate in more than one team. 
 
 1. Source code
@@ -25,4 +25,4 @@ title = "Rules"
 1. Harassment
 
 	Do not insult, follow, stalk or try to intimidate Hackathon particpants (or anyone, now that I think about it). 
-	If you see inapropriate behaviour, say something.
+	If you see inappropriate behaviour, say something.
