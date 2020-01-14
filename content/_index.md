@@ -19,13 +19,6 @@ We know this is ambitious task, but we believe everyone of us can contribute to 
 
 Whatever you choose - a project that changes your day-to-day work, something that improves the product of your client, or an app that influences elections, we will be happy to take a look.
 
-## Project ideas
-
-So far you have listed the following ideas for projects :
-
-* Recycle this!
-* Save the children
-* Sync my calendar
 
 Everyone feel free to add more ideas to this list or join an existing team. Check out the Projects below!
 
@@ -37,3 +30,7 @@ The winners shall get a special prize...
 
 Good luck to everyone participating one way or another!
 
+
+## Project ideas
+
+So far you have listed the following ideas for projects :
