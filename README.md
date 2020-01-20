@@ -9,7 +9,7 @@ Clone the repo and update the submodules:
 ```sh
 git clone git@github.com:gotha/xoomworks-hackathon2020.git
 cd xoomworks-hackathon2020/
-git submodule update --recursive
+git submodule update --init --recursive
 ```
 
 All the pages and posts are in the `content` folder.
